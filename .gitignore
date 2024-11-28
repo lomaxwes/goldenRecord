@@ -1,0 +1,10 @@
+.env/
+.venv/
+
+*.log
+logs/
+*.out
+*.err
+
+.idea/
+.vscode/
